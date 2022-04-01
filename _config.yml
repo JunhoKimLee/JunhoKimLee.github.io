@@ -55,17 +55,17 @@ sass:
   style: compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/London # Timezone for blog posts and alike
+timezone: America/New_York # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
   posts:
-    title: Projects # Needed for Siteleaf
+    title: CS Projects # Needed for Siteleaf
     output: true
-    description: "placeholder text 1" # The post list page content
-    feature_text: |
-      My CS projects
-    feature_image: "https://picsum.photos/2560/600?image=866"
+    description: "A collection of projects that I've worked on, both professional and academic." # The post list page content
+    #feature_text: |
+    #  A portfolio of projects that I've worked on, both professional and academic.
+    #feature_image: "https://picsum.photos/2560/600?image=866"
 
 # 6. Jekyll collections settings
 defaults:
@@ -92,7 +92,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Junho Kim-Lee" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "My professional website." # Site description and default description, also used in jekyll-seo-tag
+description: "Software Developer Engineer" # Site description and default description, also used in jekyll-seo-tag
 #url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 #baseurl: ""
 email: "jk2333@cornell.edu"
@@ -123,8 +123,8 @@ navigation_header:
   url: /resume/
 - title: CS Projects
   url: /projects/
-- title: Applied Economics and Management
-  url: /aem/
+#- title: Applied Economics and Management
+#  url: /aem/
 - title: Videography
   url: /videography/
 - title: Search
