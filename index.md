@@ -4,7 +4,7 @@ title: About Me
 #  ## Junho Kim-Lee
 #  Software Development Engineer
 feature_image: "/assets/me.JPG"
-excerpt: "My bio goes right here."
+excerpt: "Software Development Engineer."
 ---
 
 Hi! My name is Junho Kim-Lee and I am majoring in Computer Science at the Cornell University College of Engineering with an external specialization in Applied Economics & Management. Since I started coding in high school, I have become proficient coding in over 10 languages as well as working with data structures, algorithms, machine learning, databases, and Amazon Web Services. I am also experienced with writing software for both public and private institutions- namely NASA and Amazon.
